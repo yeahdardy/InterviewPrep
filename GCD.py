@@ -1,5 +1,7 @@
 Write a Python program to compute the greatest common divisor (GCD) of two positive integers.
 
+
+
 def gcd(x, y):
    gcd = 1   
    if x % y == 0:
@@ -12,3 +14,4 @@ def gcd(x, y):
 print("GCD of 12 & 17 =",gcd(12, 17))
 print("GCD of 4 & 6 =",gcd(4, 6))
 print("GCD of 336 & 360 =",gcd(336, 360))
+print("GCD of 666 & 6969 =",gcd(666, 6969))
