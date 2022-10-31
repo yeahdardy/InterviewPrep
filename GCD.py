@@ -11,6 +11,7 @@ def gcd(x, y):
            gcd = k
            break 
    return gcd
+print("Results to follow"
 print("GCD of 12 & 17 =",gcd(12, 17))
 print("GCD of 4 & 6 =",gcd(4, 6))
 print("GCD of 336 & 360 =",gcd(336, 360))
